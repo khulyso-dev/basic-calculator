@@ -67,3 +67,9 @@ form input.operator{
 .footer code{
     font-size: 15px;
 }
+
+@media(max-width:600px){
+    .container{
+        width: fit-content;
+    }
+}
