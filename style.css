@@ -57,3 +57,13 @@ form input.equal{
 form input.operator{
     color: red;
 }
+
+.footer{
+    margin-left: 40px;
+    color: #e3f9ff;
+    
+}
+
+.footer code{
+    font-size: 15px;
+}
