@@ -25,6 +25,7 @@ form .display{
     display: flex;
     justify-content: flex-end;
     margin: 20px 0;
+    
 }
 
 form .display input{
@@ -50,4 +51,9 @@ form .display input{
 
 form input.equal{
     width: 145px;
+    color: red;
+}
+
+form input.operator{
+    color: red;
 }
