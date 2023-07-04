@@ -20,11 +20,6 @@ To use the calculator, simply open the `index.html` file in a web browser. The c
 - Click the decimal point button (.) to enter decimal numbers.
 - Click the equal (=) button to evaluate the expression and display the result.
 
-## Screenshots
-
-
-
-![Calculator Screenshot](screenshots/calculator.png)
 
 ## Author
 
