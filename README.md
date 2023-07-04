@@ -23,6 +23,10 @@ To use the calculator, simply open the `index.html` file in a web browser. The c
 
 ## Author
 
+## Screenshot
+
+[color-flipper](color-fliiper.png)
+
 This calculator application is developed by [khulyso.dev](https://khulyso.dev). If you have any questions or suggestions, feel free to reach out.
 
 ## License
